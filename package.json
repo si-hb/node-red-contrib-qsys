@@ -1,5 +1,5 @@
 {
-  "name": "red-contrib-qsys",
+  "name": "node-red-contrib-qsys",
   "version": "1.0.4",
   "description": "A collection of nodes for third party control of Q-Sys systems",
   "main": "qsys-core.js",
